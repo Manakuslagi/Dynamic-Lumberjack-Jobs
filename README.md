@@ -11,5 +11,5 @@ Compile script and run the server!
 ```
 
 # Credit
-Palwa : https://github.com/P4lw4
-Naomi / Manakuslagi : https://github.com/Manakuslagi
+- Palwa : https://github.com/P4lw4
+- Naomi / Manakuslagi : https://github.com/Manakuslagi
